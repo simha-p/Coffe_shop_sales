@@ -15,6 +15,10 @@ pivot tables to organize and analyze your coffee sales data dynamically. Summari
 Enhance data interpretation with visually appealing charts and graphs. Excel offers a variety of visualization options, including bar charts, line graphs, and pie charts. Create compelling visuals to showcase sales distribution, regional performance, and product popularity, making it easier to communicate insights with stakeholders.
 
 
-https://github.com/simha-p/Coffe_shop_sales/assets/107531005/5f109cc8-528d-40e5-9d34-49e32af3af47
+
+https://github.com/simha-p/Coffe_shop_sales/assets/107531005/ed880d1e-0105-4d32-b244-2aa77c6fd776
+
+
+
 
 
