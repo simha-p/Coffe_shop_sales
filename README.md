@@ -22,7 +22,8 @@ pivot tables to organize and analyze your coffee sales data dynamically. Summari
 
 
 
-<span style="color:red">Calculate Revenue by Month</span>
+'''diff 
+red Calculate Revenue by Month '''
 
 
 ![Screenshot 2024-07-21 155423](https://github.com/user-attachments/assets/79f1dc9a-1df2-4605-ad76-0aef8eeeb07d)
