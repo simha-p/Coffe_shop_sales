@@ -2,7 +2,7 @@
  Transform the data into dynamic dashboard that franchise owners can use to identify trends and patterns for th Business Decision
 
 # Data:
-The data taken from the Coffe Shop sales from JAN-JUL 2023 
+**The data taken from the Coffe Shop sales from JAN-JUL 2023** 
 
 ### Process of Analysis
 ## 1.Data Cleaning
