@@ -1,5 +1,5 @@
 # Coffe_shop_sales
- create a dashboard of sales data for coffee and  transform raw data into actionable insights that drive smarter business decisions
+ Transform the data into dynamic dashboard that franchise owners can use to identify trends and patterns for th Business Decision
 
 ### Process of Analysis
 ## 1.Data Cleaning
@@ -15,8 +15,6 @@ pivot tables to organize and analyze your coffee sales data dynamically. Summari
 Enhance data interpretation with visually appealing charts and graphs. Excel offers a variety of visualization options, including bar charts, line graphs, and pie charts. Create compelling visuals to showcase sales distribution, regional performance, and product popularity, making it easier to communicate insights with stakeholders.
 
 
-
-https://github.com/simha-p/Coffe_shop_sales/assets/107531005/ed880d1e-0105-4d32-b244-2aa77c6fd776
 
 
 
